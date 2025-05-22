@@ -1,0 +1,18 @@
+# 核心依赖
+pymycobot>=3.0.0  # myCobot机器人SDK
+opencv-python     # 图像处理
+numpy             # 数学计算
+playsound         # 音频播放
+
+# 语音处理
+SpeechRecognition # 语音识别
+pydub             # 音频处理
+pyaudio           # 音频录制
+
+# 机器学习和LLM
+openai>=1.0.0     # OpenAI API
+httpx             # HTTP客户端
+
+# 工具库
+requests          # HTTP请求
+pillow            # 图像处理
